@@ -1,0 +1,22 @@
+{
+  "name": "iterativa1",
+  "version": "1.0.0",
+  "description": "Project to honor the radio through Podcasts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [
+    "podcast",
+    "radio",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Emilyn Pieritz",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

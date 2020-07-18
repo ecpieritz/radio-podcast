@@ -1,0 +1,46 @@
+body {
+   background-color: rgb(213, 234, 235);
+   color: rgb(56, 143, 148);
+   font-family: 'DM Sans', sans-serif;
+   margin-top: 50px;
+}
+
+h1 {
+   font-family: 'Rowdies', cursive;
+   color: rgb(12, 94, 98);
+
+   margin-bottom: 50px;
+}
+
+img {
+   width: 150px;
+   border-radius: 50%;
+}
+
+.container {
+   text-align: center;
+}
+
+#inputCurrentFrequency {
+   width: 100px;
+   margin-bottom: 15px;
+}
+
+#rangeFrequencies {
+   width: 300px;
+   margin-bottom: 15px;
+}
+
+#divPodcast {
+   background-color: white;
+   width: 500px;
+   margin: auto;
+   margin-top: 25px;
+   border: 3px rgb(12, 94, 98);
+   border-style: double;
+   border-radius: 10px;
+   box-shadow: 1px 1px 2px rgb(12, 94, 98),
+      0 0 25px rgb(12, 94, 98),
+      0 0 5px rgb(12, 94, 98);
+   padding: 25px;
+}
