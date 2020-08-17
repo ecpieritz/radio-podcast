@@ -1,17 +1,3 @@
-# Radio Podcast
-
-Project created during the first iterative class of module 1 of the IGTI Fullstack bootcamp.
-
-### Technologies
-- JavaScript
-- HTML
-- CSS
-
-### Tip:
-When downloading the repository, give `npm install` to install the live-server.
-
-### 
-
 # :fast_forward: Radio Podcast :rewind:
 
 ## 🖥 Preview
