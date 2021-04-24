@@ -2,7 +2,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://raw.githubusercontent.com/ecpieritz/radio-podcast/master/img/radio-podcast-print.jpg" width = "600">
+  <img src = "https://raw.githubusercontent.com/ecpieritz/radio-podcast/master/img/radio-podcast-print.jpg" width = "700">
 </p>
 
 ---
