@@ -35,7 +35,7 @@ This project is a tribute to the radio, where there will be stations with podcas
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/radio-podcast.git
+git clone https://github.com/ecpieritz/radio-podcast.git
 
 #### Enter directory
 `cd radio-podcast`
